@@ -1,0 +1,25 @@
+.box{
+  margin: 0px;
+  border: 1px solid black;
+  height: 50px;
+  width: 50px;
+}
+
+.row{
+  display: inline-block;
+}
+
+.container{
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+.green{
+  background-image: url('./assets/mushroom.jpeg');
+  background-size: cover;
+}
+
+.red{
+  background-image: url('./assets/mario.jpg');
+  background-size: cover;
+}
